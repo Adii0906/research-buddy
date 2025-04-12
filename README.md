@@ -22,7 +22,7 @@ A streamlined web research agent powered by Mistral AI that automatically finds,
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/research-buddy.git
+git clone https://github.com/Adii0906/research-buddy.git
 cd research-buddy
 ```
 
